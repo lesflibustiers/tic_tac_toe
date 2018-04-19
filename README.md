@@ -3,6 +3,12 @@ Equipe :
 - Guillaume "Guigz9"
 - Matthieu "MatthieuL"
 
+## Comment jouer ?
+Lancer la commande dans le fichier : 'ruby tic_tac_toe_version_finale.rb'
+Chaque joueur entre son prénom
+Le plateau se divise en 9 cases, le 1er joueur est les ronds (O) le second est les croix (X).
+On selectionne une case en fonction de son numéro de case (présenté au lancement du jeu). Les choix des cases se font entre 1 et 9 (1 étant celle en haut à gauche et la 9 en bas à droite).
+
 ## Class
 Nous avons 4 classes : Board, BoardCase, Player et Game
 
